@@ -1,0 +1,7 @@
+{
+  "name": "win-secondProj",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
